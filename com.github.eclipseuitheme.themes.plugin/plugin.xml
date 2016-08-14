@@ -4,6 +4,12 @@
    <extension
          point="org.eclipse.e4.ui.css.swt.theme">
       <theme
+            basestylesheeturi="themes/css/moonrise-ui-midnight_WIN.css"
+            id="com.github.eclipseuitheme.themes.moonrise-ui.midnight"
+            label="MoonRise (midnight)"
+            os="win32">
+      </theme>
+      <theme
             basestylesheeturi="themes/css/moonrise-ui-standalone_WIN.css"
             id="com.github.eclipseuitheme.themes.moonrise-ui.standalone"
             label="MoonRise (standalone)"
@@ -16,6 +22,12 @@
             os="win32">
       </theme>
       <theme
+            basestylesheeturi="themes/css/moonrise-ui-midnight.css"
+            id="com.github.eclipseuitheme.themes.moonrise-ui.midnight"
+            label="MoonRise (midnight)"
+            os="linux">
+      </theme>
+      <theme
             basestylesheeturi="themes/css/moonrise-ui-standalone.css"
             id="com.github.eclipseuitheme.themes.moonrise-ui.standalone"
             label="MoonRise (standalone)"
@@ -26,6 +38,12 @@
             id="com.github.eclipseuitheme.themes.moonrise-ui"
             label="MoonRise"
             os="linux">
+      </theme>
+      <theme
+            basestylesheeturi="themes/css/moonrise-ui-midnight_OSX.css"
+            id="com.github.eclipseuitheme.themes.moonrise-ui.midnight"
+            label="MoonRise (midnight)"
+            os="macosx">
       </theme>
       <theme
             basestylesheeturi="themes/css/moonrise-ui-standalone_OSX.css"
@@ -40,6 +58,12 @@
             os="macosx">
       </theme>
       <theme
+            basestylesheeturi="themes/css/moonrise-ui-midnight.css"
+            id="com.github.eclipseuitheme.themes.moonrise-ui.midnight"
+            label="MoonRise (midnight)"
+            os="solaris">
+      </theme>
+      <theme
             basestylesheeturi="themes/css/moonrise-ui-standalone.css"
             id="com.github.eclipseuitheme.themes.moonrise-ui.standalone"
             label="MoonRise (standalone)"
@@ -67,6 +91,12 @@
             basestylesheeturi="themes/css/moonrise-ui-standalone.css"
             id="com.github.eclipseuitheme.themes.moonrise-ui.standalone"
             label="MoonRise (standalone)"
+            os="hpux">
+      </theme>
+      <theme
+            basestylesheeturi="themes/css/moonrise-ui-midnight.css"
+            id="com.github.eclipseuitheme.themes.moonrise-ui.midnight"
+            label="MoonRise (midnight)"
             os="hpux">
       </theme>
       <theme
